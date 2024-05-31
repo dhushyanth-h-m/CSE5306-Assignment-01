@@ -10,10 +10,7 @@ def run():
     with grpc.insecure_channel('localhost:3080') as channel:
         stub = image_search_pb2_grpc.ImageSearchServiceStub(channel)
 
-        # Prompt the user to enter a query
         query = input('Enter a query: ')
-
-        # Send a request to search for an image
         response = stub.SearchImage(image_search_pb2.ImageRequest(keyword=query))
 
         # Save the image to a file
