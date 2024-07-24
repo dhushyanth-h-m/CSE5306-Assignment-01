@@ -73,3 +73,123 @@ Contributions to this project are welcome! Please make sure to read the contribu
 
 ## License
 This project is licensed under the MIT License.
+
+
+<!--
+&lt;--- Readme.md Snippet without images Start ---&gt;
+## Tech Stack
+dhushyanth-h-m/Multi-threaded-Image-Search-Engine is built on the following main stack:
+
+- [Python](https://www.python.org) – Languages
+- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
+
+Full tech stack [here](/techstack.md)
+
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
+## Tech Stack
+dhushyanth-h-m/Multi-threaded-Image-Search-Engine is built on the following main stack:
+
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
+
+Full tech stack [here](/techstack.md)
+
+&lt;--- Readme.md Snippet with images End ---&gt;
+-->
+<div align="center">
+
+# Tech Stack File
+![](https://img.stackshare.io/repo.svg "repo") [dhushyanth-h-m/Multi-threaded-Image-Search-Engine](https://github.com/dhushyanth-h-m/Multi-threaded-Image-Search-Engine)![](https://img.stackshare.io/public_badge.svg "public")
+<br/><br/>
+|7<br/>Tools used|07/24/24 <br/>Report generated|
+|------|------|
+</div>
+
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'>
+  <br>
+  <sub><a href="https://www.python.org">Python</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'>
+  <br>
+  <sub><a href="https://developers.google.com/protocol-buffers/">Protobuf</a></sub>
+  <br>
+  <sub>v4.24.4</sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (3)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'>
+  <br>
+  <sub><a href="https://www.docker.com/">Docker</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
+  <br>
+  <sub><a href="http://git-scm.com/">Git</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg' alt='PyPI'>
+  <br>
+  <sub><a href="https://pypi.org/">PyPI</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## Other (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'>
+  <br>
+  <sub><a href="https://www.tensorflow.org">TensorFlow</a></sub>
+  <br>
+  <sub>v2.13.0</sub>
+</td>
+
+</tr>
+</table>
+
+
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (1)</h2>
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (1)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[grpcio](https://pypi.org/project/grpcio)|v1.59.0|10/17/23|Dhushyanth |Apache-2.0|N/A|
+
+<br/>
+<div align='center'>
+
+Generated via [Stack File](https://github.com/marketplace/stack-file)
+
